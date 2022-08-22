@@ -5,7 +5,7 @@ Date | Paper | Presenter | Links
 
 ### Study Member
 * [Hyungjun Lee](http://www.github.com/utilForever)
-* [Injea Lee](https://github.com/oliver0922)
+* [Injae Lee](https://github.com/oliver0922)
 * [Teasan Kim](https://github.com/taemt94)
 * [Hyeongoo Pyeon](https://github.com/pyeon9)
 * [Jeamin Seol](https://github.com/snowjam0125)
