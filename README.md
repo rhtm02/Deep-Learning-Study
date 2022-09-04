@@ -2,7 +2,6 @@
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 8/28 | Delving into Localization Errors for Monocular 3D Object Detection, Ma. Xinzhu et al, CVPR 2021. | Jeamin Seol | [paper]https://arxiv.org/abs/2103.16237) [[review]](./Delving into Localization Errors for Monocular 3D Object Detection.pdf)
-
 9/04 | NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis, Ben Mildenhall et al, ECCV 2020. | Hyungjun Lee | [paper]https://arxiv.org/abs/2003.08934) [[review]](./NERF.pdf)
 
 ### Study Member
